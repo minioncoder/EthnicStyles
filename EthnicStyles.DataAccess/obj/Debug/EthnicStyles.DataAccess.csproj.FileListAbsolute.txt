@@ -1,0 +1,17 @@
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\EthnicStyles.DataAccess.dll.config
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\EthnicStyles.DataAccess.dll
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\EthnicStyles.DataAccess.pdb
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\obj\Debug\EthnicStyles.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\obj\Debug\EthnicStyles.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\obj\Debug\EthnicStyles.DataAccess.csproj.CopyComplete
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\obj\Debug\EthnicStyles.DataAccess.dll
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\obj\Debug\EthnicStyles.DataAccess.pdb
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\obj\Debug\EthnicStyles.DataAccess.Migrations.EthnicDbv1.resources
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\obj\Debug\EthnicStyles.DataAccess.csproj.GenerateResource.cache
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\Autofac.dll
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\Autofac.pdb
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles.DataAccess\bin\Debug\Autofac.xml
