@@ -1,7 +1,8 @@
 # Don't track content of these folders
 .vs/
 node_modules/
-
+EthnicStyles.DataAccess/bin/
+EthnicStyles.DataAccess/obj/
 
 #Don't track these files
 *.mdf

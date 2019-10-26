@@ -105,7 +105,6 @@ C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\EthnicStyles.DataAcces
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\EthnicStyles.DataAccess.pdb
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\EthnicStyles.DataAccess.dll.config
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\Autofac.xml
-C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\Autofac.Integration.WebApi.pdb
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\Autofac.Integration.WebApi.xml
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\Microsoft.Win32.Primitives.dll
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\netstandard.dll
@@ -291,3 +290,8 @@ C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\System.Buffers.xml
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\System.Text.Encodings.Web.xml
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\Autofac.Integration.Mvc.dll
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\Autofac.Integration.Mvc.xml
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\Autofac.pdb
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\EthnicDbEntities.cs
+C:\Users\bhavy\source\repos\EthnicStyles\EthnicStyles\bin\EthnicStyleRepository.cs

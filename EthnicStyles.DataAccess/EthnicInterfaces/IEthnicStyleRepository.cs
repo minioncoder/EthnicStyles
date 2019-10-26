@@ -8,6 +8,8 @@ namespace EthnicStyles.DataAccess.EthnicInterfaces
 {
     public interface IEthnicStyleRepository
     {
+        //void Add(Products products);
+        //void Remove(Products product);
         List<Products> GetProducts();
         List<ProductCategories> GetProductCategories();
     }
