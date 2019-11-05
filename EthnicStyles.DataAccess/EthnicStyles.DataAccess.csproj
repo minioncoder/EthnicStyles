@@ -102,7 +102,13 @@
     <Compile Include="Migrations\201910260236483_ET_20192.designer.cs">
       <DependentUpon>201910260236483_ET_20192.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201911051238493_ET_20193.cs" />
+    <Compile Include="Migrations\201911051238493_ET_20193.designer.cs">
+      <DependentUpon>201911051238493_ET_20193.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\ProdCategories.cs" />
+    <Compile Include="Models\ProductMinInfo.cs" />
     <Compile Include="ProductCategories.cs" />
     <Compile Include="Products.cs" />
     <Compile Include="Roles.cs" />
@@ -125,6 +131,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201910260236483_ET_20192.resx">
       <DependentUpon>201910260236483_ET_20192.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911051238493_ET_20193.resx">
+      <DependentUpon>201911051238493_ET_20193.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

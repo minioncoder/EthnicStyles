@@ -11,6 +11,7 @@ namespace EthnicStyles.DataAccess
     {
         [Key]
         public int ProductId { get; set; }
+        public long ProductCategoryId { get; set; }
         public string Description { get; set; }
         public string ItemName { get; set; }
         public int Price { get; set; }

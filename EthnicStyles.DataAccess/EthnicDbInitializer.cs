@@ -3,7 +3,7 @@ using System.Data.Entity;
 
 namespace EthnicStyles.DataAccess
 {
-    public class EthnicDbInitializer : CreateDatabaseIfNotExists<EthnicDbEntities>
+    public class EthnicDbInitializer : DropCreateDatabaseIfModelChanges<EthnicDbEntities>
     {
             protected override void Seed(EthnicDbEntities context)
             {
